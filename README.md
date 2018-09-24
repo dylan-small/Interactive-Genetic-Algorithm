@@ -3,3 +3,4 @@
 ```
 java -jar [drag jar file here]
 ```
+![](algorithm.gif)
