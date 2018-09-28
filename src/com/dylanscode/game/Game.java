@@ -185,7 +185,7 @@ public class Game extends JFrame implements Runnable
 	public void run()
 	{
 		long lastTime = System.nanoTime();
-		double nsPerTick = 1000000000 / 360D;
+		double nsPerTick = 1000000000 / 60D;
 		int frames = 0;
 		int ticks = 0;
 		long lastTimer = System.currentTimeMillis();
